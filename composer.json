@@ -1,0 +1,16 @@
+{
+    "name": "michael/artisan-bash-completion",
+    "description": "Autocomplete artisan list",
+    "authors": [
+        {
+            "name": "Michael Chrisco",
+            "email": "michaelachrisco@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-0" : {
+          "michaelachrisco\\artisanBashCompletion" : "src"
+      }
+    }
+}
